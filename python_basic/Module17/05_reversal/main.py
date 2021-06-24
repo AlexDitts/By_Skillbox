@@ -1,0 +1,6 @@
+text = input('Введите строку: ')
+first_h = text.find('h')
+second_h = text.rfind('h')
+revers_text = (text[second_h-1:first_h:-1])
+print(revers_text)
+print(text[:first_h+1]+revers_text+text[second_h:])

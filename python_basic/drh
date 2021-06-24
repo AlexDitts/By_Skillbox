@@ -1,0 +1,297 @@
+[33mcommit a8e7cbd3a476afc6b14e405b3127612bc51c5a13[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Mon Apr 19 23:16:20 2021 +0700
+
+    module 19 tasks 1-8, 10
+
+[33mcommit 2ad69e57a9ea125e1918a5ee794732fdbcd68eeb[m
+Author: Sancho <Sancho@example.com>
+Date:   Mon Apr 19 23:09:34 2021 +0700
+
+    module 19 tasks 1-9
+
+[33mcommit 2d84185073fa0c1c8ff3546c3e1dad25e31f069c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Skillbox <it@skillbox.ru>
+Date:   Thu Apr 15 15:24:39 2021 +0000
+
+    Add lesson
+
+[33mcommit cac6ac1797fc275cb17b83a1b929027dbf89092f[m
+Merge: 4bb2059 087fd5b
+Author: Sancho <Sancho@example.com>
+Date:   Wed Apr 14 08:50:52 2021 +0700
+
+     Fixed task 5
+
+[33mcommit 4bb205927ea258da1d2b56fa52b986c8e9408843[m
+Author: Sancho <Sancho@example.com>
+Date:   Wed Apr 14 08:47:57 2021 +0700
+
+     Fixed task 5
+
+[33mcommit 087fd5ba73b0094b479665d8b4931e7ecee76c89[m
+Author: vdstr <vd@stratov.ru>
+Date:   Tue Apr 13 23:00:03 2021 +0300
+
+    module 18 rework
+    accepted 0/1
+
+[33mcommit 4dddf38c07a5bb442f36502a655c4620f53c39fd[m
+Author: Sancho <Sancho@example.com>
+Date:   Tue Apr 13 14:15:27 2021 +0700
+
+     Fixed task 5
+
+[33mcommit 0855a84ae0dfe835e8ca9d47f11830d24d30b547[m
+Author: vdstr <vd@stratov.ru>
+Date:   Tue Apr 13 08:29:47 2021 +0300
+
+    module 18 rework
+    accepted 2/3
+
+[33mcommit b225461b4835d1a2ec009655b4bf877b138b2139[m
+Author: Sancho <Sancho@example.com>
+Date:   Mon Apr 12 15:16:52 2021 +0700
+
+    Fixed module 18
+
+[33mcommit 317d6c2f2841e9dc7dcd734fbcdec126605f6fd4[m
+Merge: 720763d c27cd08
+Author: Sancho <Sancho@example.com>
+Date:   Mon Apr 12 15:08:11 2021 +0700
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       Module18/03_files/main.py
+    #       Module18/05_password/main.py
+    #       Module18/06_compression/main.py
+
+[33mcommit 720763db999c174eccb68ba3973a9a45c0a748a3[m
+Author: Sancho <Sancho@example.com>
+Date:   Mon Apr 12 14:56:27 2021 +0700
+
+    Fixed task 3, 5, 6
+
+[33mcommit c27cd08c3b3135f092c0b6c4e99ce46f68408bcd[m
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Apr 12 08:53:55 2021 +0300
+
+    module 18 rework
+    accepted 4/7
+
+[33mcommit 3452cd9f90cbbf794f5357986717b80f25e48ced[m
+Author: Sancho <Sancho@example.com>
+Date:   Sun Apr 11 23:02:44 2021 +0700
+
+    fixed tasks 7-10
+
+[33mcommit 4922f7246bcd127042816c85d93a70160a620f06[m
+Author: vdstr <vd@stratov.ru>
+Date:   Sun Apr 11 14:49:52 2021 +0300
+
+    module 18 rework
+    accepted 0/7
+
+[33mcommit 7f3075a15b566df7023275055284abcb2620cfee[m
+Author: Sancho <Sancho@example.com>
+Date:   Sat Apr 10 00:21:45 2021 +0700
+
+    tasks 7-10
+
+[33mcommit e6c976de1bdfe19c6bcb75ba264416eda6e86e58[m
+Author: vdstr <vd@stratov.ru>
+Date:   Wed Apr 7 09:51:02 2021 +0300
+
+    module 18 rework
+    accepted 0/7
+
+[33mcommit 7f5aab73717b58274629819ca5badf6c2d935fd8[m
+Author: Sancho <Sancho@example.com>
+Date:   Tue Apr 6 22:53:26 2021 +0700
+
+    module18_10
+
+[33mcommit 8be0c88ae612b4042f8825754c752628a29cb493[m
+Merge: 5084d49 d046831
+Author: Sancho <Sancho@example.com>
+Date:   Tue Apr 6 22:47:03 2021 +0700
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 5084d49d0df9d7704a369c18fdaf5c73ec45e3fb[m
+Author: Sancho <Sancho@example.com>
+Date:   Tue Apr 6 22:45:13 2021 +0700
+
+    module18_7,8,10
+
+[33mcommit d04683150fa7b3b75c0c039534da9f1bd84e5d3c[m
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Apr 5 21:41:21 2021 +0300
+
+    module 18 rework
+    accepted 3/10
+
+[33mcommit 27b9403bb7876a1dc51b15c6c3defb875206d577[m
+Author: Sancho <Sancho@example.com>
+Date:   Mon Apr 5 22:42:15 2021 +0700
+
+    module 17
+
+[33mcommit 1fdf165595236743223127b505ce07911462601c[m
+Author: Skillbox <it@skillbox.ru>
+Date:   Mon Apr 5 00:06:30 2021 +0000
+
+    Add lesson
+
+[33mcommit 5aa5c73a6f06c795d24f9fc0b1d6b0687c0cacbe[m
+Author: Sancho <Sancho@example.com>
+Date:   Sun Apr 4 20:26:48 2021 +0700
+
+    fixed task 5
+
+[33mcommit 5136a235bd0cc42bc40a563a89c1f2b12b0e7b00[m
+Author: vdstr <vd@stratov.ru>
+Date:   Sun Apr 4 10:16:14 2021 +0300
+
+    module 17 rework
+    accepted 8/10
+
+[33mcommit c1efb0b45bba5688c79220017910da86fdd4a63c[m
+Author: Sancho <Sancho@example.com>
+Date:   Sat Apr 3 11:10:26 2021 +0700
+
+    module 17
+
+[33mcommit a63131e52c9066af58d493951a9cab4749152b90[m
+Author: Skillbox <it@skillbox.ru>
+Date:   Sat Apr 3 00:51:36 2021 +0000
+
+    Add lesson
+
+[33mcommit 77f70550458f8d66c497fba0b8ed3fc6a88cbc57[m
+Author: Sancho <Sancho@example.com>
+Date:   Fri Apr 2 07:36:05 2021 +0700
+
+    Fixed module 16
+
+[33mcommit 76ded1f88e434e4d476c1a4598b995d173a6ca0d[m
+Author: vdstr <vd@stratov.ru>
+Date:   Thu Apr 1 22:38:30 2021 +0300
+
+    module 16 rework
+    accepted 3/5
+
+[33mcommit be09a48e6586bf4bbef465e5f6c9c07a226a38b8[m
+Author: Sancho <Sancho@example.com>
+Date:   Thu Apr 1 11:07:57 2021 +0700
+
+    fixed tasks
+
+[33mcommit ec5279e711761bd8f19e956731b00e886497015f[m
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:43:07 2021 +0300
+
+    module 16 rework
+    accepted 5/10
+
+[33mcommit c4d93d46c0794c5e0cbe2e69fa123ce80507370f[m
+Merge: dabdca9 799747d
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:41 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_10'
+
+[33mcommit dabdca9fa380c72421fab73dba79e8e76a49fb90[m
+Merge: e91406b 0f5a6da
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:37 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_9'
+
+[33mcommit e91406b90ee34bd96815a864009ef2207ebd60c0[m
+Merge: bf4cef7 35b55ba
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:33 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_8'
+
+[33mcommit bf4cef77a01e8fb628a3fadb90915478f7270c00[m
+Merge: b218e90 de7700d
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:28 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_7'
+
+[33mcommit b218e904522f251354c3c185840e0ce8578d3125[m
+Merge: a945e2e b8f7cff
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:24 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_6'
+
+[33mcommit a945e2ed9fe23eb9b050d907275f286df737cd89[m
+Merge: 687c553 17988cf
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:20 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_5'
+
+[33mcommit 687c55300935d3d09528264e581b4e0301fea129[m
+Merge: d615627 d69f8e7
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:17 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_4'
+
+[33mcommit d6156276e7cd6d105c29d7bbeeaa5dc64344db70[m
+Merge: 5aa0aaa 2503c38
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:13 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_3'
+
+[33mcommit 5aa0aaa5ac68a4ca419330c1c90bf7b33ab8fb8a[m
+Merge: c9d4ac1 0516927
+Author: vdstr <vd@stratov.ru>
+Date:   Mon Mar 22 08:31:10 2021 +0300
+
+    Merge remote-tracking branch 'origin/task_2'
+
+[33mcommit 799747db974d3a8581458198031e58f28a220e3a[m[33m ([m[1;31morigin/task_10[m[33m, [m[1;32mtask_10[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Fri Mar 19 12:04:06 2021 +0700
+
+    task_10
+
+[33mcommit 0f5a6da1e4547099fa3b394edb3184254382da22[m[33m ([m[1;31morigin/task_9[m[33m, [m[1;32mtask_9[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Fri Mar 19 10:45:08 2021 +0700
+
+    task_9
+
+[33mcommit de7700dc888ec3c23c3d0075e1b1495095a97664[m[33m ([m[1;31morigin/task_7[m[33m, [m[1;32mtask_7[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Fri Mar 19 08:39:13 2021 +0700
+
+    task_7
+
+[33mcommit 35b55ba2074a2766f915ae23512453e7eea42044[m[33m ([m[1;31morigin/task_8[m[33m, [m[1;32mtask_8[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Fri Mar 19 00:11:58 2021 +0700
+
+    task_8
+
+[33mcommit b8f7cff91d5674dad3d4ba8cd78f3b03f536d787[m[33m ([m[1;31morigin/task_6[m[33m, [m[1;32mtask_6[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Thu Mar 18 23:58:48 2021 +0700
+
+    task_6
+
+[33mcommit 17988cf4eab882639cf3ed546be3504c5ab15cc3[m[33m ([m[1;31morigin/task_5[m[33m, [m[1;32mtask_5[m[33m)[m
+Author: Sancho <Sancho@example.com>
+Date:   Thu Mar 18 23:57:02 2021 +0700
+
+    task_5
+
+[33mcommit d69f8e778cfc85b952b785b59a7c094e8c062abe[m[33m ([m[1;31morigin/
